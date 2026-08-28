@@ -1,20 +1,5 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T15:40:16.993699+00:00",
-  "jobs": [
-    {
-      "job_id": "social_6310cceaa2a54e4bba701ed5ea907735",
-      "job_type": "social",
-      "title": "Colman's Mustard put up for sale ahead of merger",
-      "priority": 3,
-      "created_at": "2026-08-28T15:36:45.301403+00:00",
-      "article_urls": [
-        "https://www.bbc.co.uk/news/articles/cd08g4pjkymo?at_medium=RSS&at_campaign=rss"
-      ],
-      "research_instructions": "SOCIAL CONTENT. Format: tiktok_reel. Template:\n\nCreate one spoken TikTok/Reel script using the News Escalation template.\n\nLanguage: use the language requested by the collection context; otherwise use clear English.\nLength: 160-230 spoken words, approximately 60-90 seconds.\nOutput: continuous voiceover prose under `## Social Draft`; no bullet list, production notes, emojis, hashtags or invented call to action.\n\nNarrative structure:\n1. Open conversationally with the new authoritative finding and its strongest verified number or consequence.\n2. Explain the first causal driver in plain language.\n3. Escalate with a second distinct driver using a natural pivot such as “But another major factor...”\n4. Add the most consequential compounding factor with another clear pivot.\n5. Synthesize the interacting forces into one memorable, evidence-based stakes sentence.\n6. Add corroboration from another independent authority or a recent comparable warning.\n7. End with one short forward-looking line that feels conclusive, not sensationalist.\n\nWriting rules:\n- Short, speakable sentences and natural transitions.\n- Preserve exact figures, dates, attribution and uncertainty.\n- Every factual statement must remain traceable to the source report or a fully opened source.\n- Do not copy wording from the reference transcript.\n- Do not use unsupported catastrophe language, fake urgency or certainty stronger than the evidence.\n",
-      "workflow": "social",
-      "social_template_id": "news_escalation_v1",
-      "source_report": "research_1266a6c94ee14bbdab28cbdb997c79ed"
-    }
-  ]
+  "generated_at": "2026-08-28T15:45:18.698519+00:00",
+  "jobs": []
 }
