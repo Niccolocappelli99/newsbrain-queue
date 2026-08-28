@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T17:06:47.319966+00:00",
+  "generated_at": "2026-08-28T17:09:08.016823+00:00",
   "jobs": [
     {
       "job_id": "video_31304610efd8423ca159b37b9488616a",
@@ -17,6 +17,22 @@
       "transcript_file": "video_31304610efd8423ca159b37b9488616a.txt",
       "transcript_drive_folder": "ChatGPT-NewsBrain/VideoInputs",
       "platform": "youtube"
+    },
+    {
+      "job_id": "video_c580f0f6cd454913b61166263d1c70ef",
+      "job_type": "video_research",
+      "title": "Video research · Tiktok",
+      "priority": 3,
+      "created_at": "2026-08-28T16:30:44.796871+00:00",
+      "article_urls": [
+        "https://www.tiktok.com/@darrenfrancisnews/video/7664276903276137759?is_from_webapp=1&sender_device=pc"
+      ],
+      "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
+      "workflow": "video_research",
+      "research_mode": "standard_web",
+      "transcript_file": "video_c580f0f6cd454913b61166263d1c70ef.txt",
+      "transcript_drive_folder": "ChatGPT-NewsBrain/VideoInputs",
+      "platform": "tiktok"
     }
   ]
 }
