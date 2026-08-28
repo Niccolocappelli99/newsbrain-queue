@@ -1,20 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T15:36:45.367582+00:00",
+  "generated_at": "2026-08-28T15:40:16.993699+00:00",
   "jobs": [
-    {
-      "job_id": "deep_1c85b50a166c4b8d8771fcce6fb2fd9b",
-      "job_type": "deep_dive",
-      "title": "Colman's Mustard put up for sale ahead of merger",
-      "priority": 3,
-      "created_at": "2026-08-28T15:36:42.550967+00:00",
-      "article_urls": [
-        "https://www.bbc.co.uk/news/articles/cd08g4pjkymo?at_medium=RSS&at_campaign=rss"
-      ],
-      "research_instructions": "DEEP DIVE: this job explicitly requires ChatGPT Deep Research, not ordinary web search. Build a research plan, investigate the news and its broader historical, industry, policy, competitive and market context, reconcile conflicting evidence, identify second-order effects, risks, scenarios and open questions, and produce a fully cited synthesis. Do not silently downgrade to standard research. If Deep Research cannot actually be activated in this run, return status failed with that exact limitation.",
-      "workflow": "deep_dive",
-      "research_mode": "deep_research_required"
-    },
     {
       "job_id": "social_6310cceaa2a54e4bba701ed5ea907735",
       "job_type": "social",
