@@ -1,17 +1,5 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T14:31:24.995007+00:00",
-  "jobs": [
-    {
-      "job_id": "research_1a9cce7e84eb4a479d17a15351ce5d8d",
-      "job_type": "research",
-      "title": "'Cowboy builders' targeted in new government clampdown",
-      "priority": 3,
-      "created_at": "2026-08-28T13:15:09.414862+00:00",
-      "article_urls": [
-        "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss"
-      ],
-      "research_instructions": "Stabilisci cosa è realmente nuovo, verifica le fonti e spiega perché conta."
-    }
-  ]
+  "generated_at": "2026-08-28T14:43:38.146792+00:00",
+  "jobs": []
 }
