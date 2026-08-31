@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T17:15:44.013207+00:00",
+  "generated_at": "2026-08-31T17:16:55.223657+00:00",
   "jobs": [
     {
       "job_id": "video_1a8a935988c94ab69472eee8a3d309ed",
@@ -119,6 +119,26 @@
       "workflow": "video_research",
       "research_mode": "standard_web",
       "transcript_file": "video_203ee17d19144d80a0bc6870766537fd.txt",
+      "transcript_drive_folder": "ChatGPT-NewsBrain/VideoInputs",
+      "platform": "tiktok"
+    },
+    {
+      "job_id": "video_163b0b6b836e45c4a328d73f5619796f",
+      "job_type": "video_research",
+      "title": "Video research · Tiktok",
+      "priority": 3,
+      "created_at": "2026-08-31T16:23:46.538189+00:00",
+      "article_urls": [
+        "https://vm.tiktok.com/ZN8FXjLh5/"
+      ],
+      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
+      "claim_file": "video_163b0b6b836e45c4a328d73f5619796f.claim.md",
+      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
+      "completion_file": "video_163b0b6b836e45c4a328d73f5619796f.completed.md",
+      "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. The completed Markdown must contain the exact H2 headings `## Video Thesis` and `## Fact Check`; do not rename them. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
+      "workflow": "video_research",
+      "research_mode": "standard_web",
+      "transcript_file": "video_163b0b6b836e45c4a328d73f5619796f.txt",
       "transcript_drive_folder": "ChatGPT-NewsBrain/VideoInputs",
       "platform": "tiktok"
     }
