@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T11:00:03.535720+00:00",
+  "generated_at": "2026-09-11T11:09:26.821930+00:00",
   "jobs": [
     {
       "job_id": "video_29ae09ad0e6540e4ace4ef947b6d7ffe",
@@ -11,8 +11,6 @@
       "article_urls": [
         "https://vm.tiktok.com/ZN82vRag7/"
       ],
-      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
-      "claim_file": "video_29ae09ad0e6540e4ace4ef947b6d7ffe.claim.md",
       "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
       "completion_file": "video_29ae09ad0e6540e4ace4ef947b6d7ffe.completed.md",
       "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. The completed Markdown must contain the exact H2 headings `## Video Thesis` and `## Fact Check`; do not rename them. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
@@ -31,8 +29,6 @@
       "article_urls": [
         "https://vm.tiktok.com/ZN82v2KvS/"
       ],
-      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
-      "claim_file": "video_85c73ca3edc64c53aeaced889712cdda.claim.md",
       "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
       "completion_file": "video_85c73ca3edc64c53aeaced889712cdda.completed.md",
       "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. The completed Markdown must contain the exact H2 headings `## Video Thesis` and `## Fact Check`; do not rename them. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
@@ -51,8 +47,6 @@
       "article_urls": [
         "https://vm.tiktok.com/ZN82vkygw/"
       ],
-      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
-      "claim_file": "video_eb9f8a4eb46349309dc4d651e13c083a.claim.md",
       "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
       "completion_file": "video_eb9f8a4eb46349309dc4d651e13c083a.completed.md",
       "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. The completed Markdown must contain the exact H2 headings `## Video Thesis` and `## Fact Check`; do not rename them. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
@@ -71,8 +65,6 @@
       "article_urls": [
         "https://vm.tiktok.com/ZN82vq3nG/"
       ],
-      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
-      "claim_file": "video_fac0cd7b7f154c298d06d4fa8cdb2fae.claim.md",
       "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
       "completion_file": "video_fac0cd7b7f154c298d06d4fa8cdb2fae.completed.md",
       "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. The completed Markdown must contain the exact H2 headings `## Video Thesis` and `## Fact Check`; do not rename them. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
@@ -91,8 +83,6 @@
       "article_urls": [
         "https://vm.tiktok.com/ZN82vadoq/"
       ],
-      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
-      "claim_file": "video_d6d82fa48c79459c88dc38e1f76eb382.claim.md",
       "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
       "completion_file": "video_d6d82fa48c79459c88dc38e1f76eb382.completed.md",
       "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. The completed Markdown must contain the exact H2 headings `## Video Thesis` and `## Fact Check`; do not rename them. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
@@ -112,8 +102,6 @@
         "https://www.portfolio.hu/bank/20260911/kongatjak-a-veszharangot-a-legnagyobb-europai-bankok-vezerei-drasztikus-valtozasokat-kovetelnek-862040",
         "https://www.expansion.com/empresas/banca/2026/09/11/6aa3b698468aebda7c8b4594.html"
       ],
-      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
-      "claim_file": "ground_64694b6aea6246f7b63b2f7ed6200da8.claim.md",
       "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
       "completion_file": "ground_64694b6aea6246f7b63b2f7ed6200da8.completed.md",
       "research_instructions": "GROUND NEWS STORY CLUSTER (automatic standard web research): treat every supplied article URL as coverage of one story and produce one durable report, never one report or job per article. Open and inspect every supplied article that is accessible, then compare what the outlets agree on, where their facts or framing diverge, and which material facts are omitted or still uncertain. Use the Ground News page only as discovery context, not as supporting evidence unless its own substantive text is inspected. Expand the cluster into the relevant historical, policy, industry and market context. The completed Markdown must contain the exact H2 headings `## Coverage Comparison` and `## Consensus And Disagreement`. Use normal web research with the Evidence Gate; never create article-level child jobs and never claim the proprietary ChatGPT Deep Research mode.",
