@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T01:06:51.449807+00:00",
+  "generated_at": "2026-09-11T11:00:03.535720+00:00",
   "jobs": [
     {
       "job_id": "video_29ae09ad0e6540e4ace4ef947b6d7ffe",
@@ -101,6 +101,28 @@
       "transcript_file": "video_d6d82fa48c79459c88dc38e1f76eb382.txt",
       "transcript_drive_folder": "ChatGPT-NewsBrain/VideoInputs",
       "platform": "tiktok"
+    },
+    {
+      "job_id": "ground_64694b6aea6246f7b63b2f7ed6200da8",
+      "job_type": "ground_research",
+      "title": "The Heads of the Largest European Banks Are Sounding the Alarm: They Are Demanding Drastic Changes",
+      "priority": 3,
+      "created_at": "2026-09-11T11:00:03.381540+00:00",
+      "article_urls": [
+        "https://www.portfolio.hu/bank/20260911/kongatjak-a-veszharangot-a-legnagyobb-europai-bankok-vezerei-drasztikus-valtozasokat-kovetelnek-862040",
+        "https://www.expansion.com/empresas/banca/2026/09/11/6aa3b698468aebda7c8b4594.html"
+      ],
+      "claim_drive_folder": "ChatGPT-NewsBrain/Claims",
+      "claim_file": "ground_64694b6aea6246f7b63b2f7ed6200da8.claim.md",
+      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
+      "completion_file": "ground_64694b6aea6246f7b63b2f7ed6200da8.completed.md",
+      "research_instructions": "GROUND NEWS STORY CLUSTER (automatic standard web research): treat every supplied article URL as coverage of one story and produce one durable report, never one report or job per article. Open and inspect every supplied article that is accessible, then compare what the outlets agree on, where their facts or framing diverge, and which material facts are omitted or still uncertain. Use the Ground News page only as discovery context, not as supporting evidence unless its own substantive text is inspected. Expand the cluster into the relevant historical, policy, industry and market context. The completed Markdown must contain the exact H2 headings `## Coverage Comparison` and `## Consensus And Disagreement`. Use normal web research with the Evidence Gate; never create article-level child jobs and never claim the proprietary ChatGPT Deep Research mode.",
+      "workflow": "ground_research",
+      "research_mode": "standard_web",
+      "ground_story_url": "https://ground.news/article/the-heads-of-the-largest-european-banks-are-sounding-the-alarm-they-are-demanding-drastic-changes_39255e",
+      "ground_story_id": "the-heads-of-the-largest-european-banks-are-sounding-the-alarm-they-are-demanding-drastic-changes_39255e",
+      "article_count": 2,
+      "single_cluster_job": true
     }
   ]
 }
