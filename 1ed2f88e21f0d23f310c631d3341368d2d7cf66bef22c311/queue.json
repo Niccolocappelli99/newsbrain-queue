@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T13:57:59.201791+00:00",
+  "generated_at": "2026-09-15T14:02:03.478772+00:00",
   "jobs": [
     {
       "job_id": "video_85c73ca3edc64c53aeaced889712cdda",
@@ -138,6 +138,42 @@
       "research_instructions": "AUTOMATIC DEEP DIVE: use rigorous standard web research through the scheduled worker. Build a research plan, investigate the news and its broader historical, industry, policy, competitive and market context, reconcile conflicting evidence, identify second-order effects, risks, scenarios and open questions, and produce a fully cited synthesis. Apply the Evidence Gate. Set research_mode: standard_web and never claim the proprietary ChatGPT Deep Research mode.",
       "workflow": "deep_dive",
       "research_mode": "standard_web"
+    },
+    {
+      "job_id": "ground_871afaf8cd6f4240a4d02646285090ab",
+      "job_type": "ground_research",
+      "title": "Stocks Drop, Oil Climbs and Treasury Yields Hit 19-Year High",
+      "priority": 3,
+      "created_at": "2026-09-15T14:02:03.308772+00:00",
+      "article_urls": [
+        "https://seekingalpha.com/article/4946383-energy-emerges-as-the-latest-market-shock",
+        "https://www.portfolio.hu/deviza/20260915/idegesek-a-befektetok-komoly-dontesre-keszulhet-a-fed-861998",
+        "https://www.wfmz.com/partners/afp/stocks-drop-oil-climbs-and-treasury-yields-hit-19-year-high/article_1323240e-486e-597e-9924-b5dcb6b9e5a1.html",
+        "https://jornaleconomico.sapo.pt/noticias/petroleo-acima-de-100-dolares-e-yields-em-maximos-pressionam-mercados-antes-da-decisao-da-fed",
+        "https://www.ibtimes.sg/asian-markets-waver-oil-yields-rise-ahead-fed-boj-meetings-93781",
+        "https://www.straitstimes.com/business/asian-shares-waver-as-oil-and-yields-rise-ahead-of-key-us-japan-central-bank-meetings",
+        "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-13",
+        "https://www.channelnewsasia.com/business/asian-shares-kospi-bank-japan-6384761",
+        "https://wtvbam.com/2026/09/14/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings",
+        "https://thewest.com.au/business/markets/asian-shares-waver-as-oil-and-yields-rise-c-22872124",
+        "https://www.perthnow.com.au/news/business/markets/asian-shares-waver-as-oil-and-yields-rise-c-22872122",
+        "https://biztoc.com/x/6098936880aff42b",
+        "https://www.matichon.co.th/foreign/news_5889483",
+        "https://www.vz.lt/mano-pinigai/2026/09/15/azijos-rinkos-daugumos-akciju-birzu-indeksai-smunka-nafta-toliau-brangsta-590003",
+        "https://pressnewsagency.org/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings",
+        "https://www.zougla.gr/money/agores/alma-ton-apodoseon-sta-amerikanika-omologa-piesi-stis-agores-logo-plithorismou-kai-petrelaiou",
+        "https://www.reporter.gr/diethnh/chrhmatisthria/685426-asiatikes-agores-meikti-eikona-me-to-vlemma-sti-fed-kai-tis-apodoseis-ton-omologon",
+        "https://www.youtube.com/watch?v=_kAqqdo6xgU"
+      ],
+      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
+      "completion_file": "ground_871afaf8cd6f4240a4d02646285090ab.completed.md",
+      "research_instructions": "GROUND NEWS STORY CLUSTER (automatic standard web research): treat every supplied article URL as coverage of one story and produce one durable report, never one report or job per article. Open and inspect every supplied article that is accessible, then compare what the outlets agree on, where their facts or framing diverge, and which material facts are omitted or still uncertain. Use the Ground News page only as discovery context, not as supporting evidence unless its own substantive text is inspected. Expand the cluster into the relevant historical, policy, industry and market context. The completed Markdown must contain the exact H2 headings `## Coverage Comparison` and `## Consensus And Disagreement`. Use normal web research with the Evidence Gate; never create article-level child jobs and never claim the proprietary ChatGPT Deep Research mode.",
+      "workflow": "ground_research",
+      "research_mode": "standard_web",
+      "ground_story_url": "https://ground.news/article/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings",
+      "ground_story_id": "asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings",
+      "article_count": 18,
+      "single_cluster_job": true
     }
   ]
 }
