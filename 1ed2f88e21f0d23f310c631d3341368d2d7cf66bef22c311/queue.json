@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T14:07:48.941453+00:00",
+  "generated_at": "2026-09-15T18:41:53.682548+00:00",
   "jobs": [
     {
       "job_id": "deep_c97bc817ba984bd7ac62d8e95dee5b0e",
@@ -31,21 +31,6 @@
       "research_instructions": "STANDARD REPORT: use normal web research, not Deep Research mode. Establish what happened, what is genuinely new, the event timeline, why it matters, and the main implications. Apply the Evidence Gate and keep the report concise.\n\nAfter the report, follow these social instructions:\n\nSOCIAL CONTENT. Format: tiktok_reel. Template:\n\nCreate one spoken TikTok/Reel script using the News Escalation template.\n\nLanguage: use the language requested by the collection context; otherwise use clear English.\nLength: 160-230 spoken words, approximately 60-90 seconds.\nOutput: continuous voiceover prose under `## Social Draft`; no bullet list, production notes, emojis, hashtags or invented call to action.\n\nNarrative structure:\n1. Open conversationally with the new authoritative finding and its strongest verified number or consequence.\n2. Explain the first causal driver in plain language.\n3. Escalate with a second distinct driver using a natural pivot such as “But another major factor...”\n4. Add the most consequential compounding factor with another clear pivot.\n5. Synthesize the interacting forces into one memorable, evidence-based stakes sentence.\n6. Add corroboration from another independent authority or a recent comparable warning.\n7. End with one short forward-looking line that feels conclusive, not sensationalist.\n\nWriting rules:\n- Short, speakable sentences and natural transitions.\n- Preserve exact figures, dates, attribution and uncertainty.\n- Every factual statement must remain traceable to the source report or a fully opened source.\n- Do not copy wording from the reference transcript.\n- Do not use unsupported catastrophe language, fake urgency or certainty stronger than the evidence.\n",
       "workflow": "social",
       "social_template_id": "news_escalation_v1"
-    },
-    {
-      "job_id": "deep_9290959d04ff4601b456dae128781af3",
-      "job_type": "deep_dive",
-      "title": "AI safety requires more than just slowing our pace | Stuart Russell",
-      "priority": 3,
-      "created_at": "2026-09-15T13:57:59.003655+00:00",
-      "article_urls": [
-        "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements"
-      ],
-      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
-      "completion_file": "deep_9290959d04ff4601b456dae128781af3.completed.md",
-      "research_instructions": "AUTOMATIC DEEP DIVE: use rigorous standard web research through the scheduled worker. Build a research plan, investigate the news and its broader historical, industry, policy, competitive and market context, reconcile conflicting evidence, identify second-order effects, risks, scenarios and open questions, and produce a fully cited synthesis. Apply the Evidence Gate. Set research_mode: standard_web and never claim the proprietary ChatGPT Deep Research mode.",
-      "workflow": "deep_dive",
-      "research_mode": "standard_web"
     },
     {
       "job_id": "ground_871afaf8cd6f4240a4d02646285090ab",
