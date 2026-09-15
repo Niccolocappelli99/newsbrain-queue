@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T11:39:53.117136+00:00",
+  "generated_at": "2026-09-15T13:57:14.497154+00:00",
   "jobs": [
     {
       "job_id": "video_85c73ca3edc64c53aeaced889712cdda",
@@ -93,6 +93,21 @@
       "ground_story_id": "the-heads-of-the-largest-european-banks-are-sounding-the-alarm-they-are-demanding-drastic-changes_39255e",
       "article_count": 2,
       "single_cluster_job": true
+    },
+    {
+      "job_id": "deep_c97bc817ba984bd7ac62d8e95dee5b0e",
+      "job_type": "deep_dive",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "priority": 3,
+      "created_at": "2026-09-15T13:57:14.198641+00:00",
+      "article_urls": [
+        "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
+      ],
+      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
+      "completion_file": "deep_c97bc817ba984bd7ac62d8e95dee5b0e.completed.md",
+      "research_instructions": "AUTOMATIC DEEP DIVE: use rigorous standard web research through the scheduled worker. Build a research plan, investigate the news and its broader historical, industry, policy, competitive and market context, reconcile conflicting evidence, identify second-order effects, risks, scenarios and open questions, and produce a fully cited synthesis. Apply the Evidence Gate. Set research_mode: standard_web and never claim the proprietary ChatGPT Deep Research mode.",
+      "workflow": "deep_dive",
+      "research_mode": "standard_web"
     }
   ]
 }
