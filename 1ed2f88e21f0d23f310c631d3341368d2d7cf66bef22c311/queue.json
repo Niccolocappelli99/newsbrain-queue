@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T19:36:54.592222+00:00",
+  "generated_at": "2026-09-16T18:50:51.886313+00:00",
   "jobs": [
     {
       "job_id": "ground_d902c9e419e64cb092fee692d64f9ef2",
@@ -33,6 +33,37 @@
       "ground_story_url": "https://ground.news/article/usa-new-record-for-diesel-price-at-627-per-gallon",
       "ground_story_id": "usa-new-record-for-diesel-price-at-627-per-gallon",
       "article_count": 15,
+      "single_cluster_job": true
+    },
+    {
+      "job_id": "ground_71e1e13e865a4338931dd2d2f7a35673",
+      "job_type": "ground_research",
+      "title": "Breaking News... The Fed Has Announced Its Highly Anticipated Interest Rate Decision - Sözcü Newspaper",
+      "priority": 3,
+      "created_at": "2026-09-16T18:50:51.823315+00:00",
+      "article_urls": [
+        "https://www.sozcu.com.tr/son-dakika-fed-merakla-beklenen-faiz-kararini-acikladi-p358906",
+        "https://www.zeit.de/news/2026-09/16/us-notenbank-erhoeht-erstmals-seit-sommer-2023-leitzins",
+        "https://www.sabah.com.tr/ekonomi/fed-faiz-kararini-acikladi-7662219",
+        "https://www.di.se/live/fed-hojer-rantan-forsta-gangen-sedan-2023",
+        "https://gestion.pe/economia/mercados/fed-sube-su-tasa-de-interes-por-primera-vez-desde-2023-noticia",
+        "https://www.gercekgundem.com/ekonomi/piyasalarin-gozu-buraya-cevrilmisti-fedden-flas-faiz-karari-578780",
+        "https://www.aydinlik.com.tr/haber/fed-beklenen-faiz-kararini-acikladi-590421",
+        "https://sicnoticias.pt/economia/2026-09-16-fed-aumenta-taxas-de-juro-pela-primeira-vez-desde-julho-de-2023-d4007bcd",
+        "https://www.vg.no/i/n12o6m/kan-vippe-rentebeslutningen-uansvarlig-aa-heve",
+        "https://www.haberler.com/haber/fed-faiz-karari-son-dakika-fed-karari-aciklandi-20244336-haberi",
+        "https://noticiasargentinas.com/economia/los-mercados-expectantes-por-la-decision-de-la-fed-sobre-la-tasa-de-interes-_a6aaab03d1508e7b0c3b540ae",
+        "https://halktv.com.tr/ekonomi/son-dakika-piyasalarin-bekledigi-haber-geldi-fed-faiz-kararini-acikladi-1055491h",
+        "https://e24.no/norsk-oekonomi/i/QJzXoW/kan-vippe-rentebeslutningen-uansvarlig-aa-heve"
+      ],
+      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
+      "completion_file": "ground_71e1e13e865a4338931dd2d2f7a35673.completed.md",
+      "research_instructions": "GROUND NEWS STORY CLUSTER (automatic standard web research): treat every supplied article URL as coverage of one story and produce one durable report, never one report or job per article. Open and inspect every supplied article that is accessible, then compare what the outlets agree on, where their facts or framing diverge, and which material facts are omitted or still uncertain. Use the Ground News page only as discovery context, not as supporting evidence unless its own substantive text is inspected. Expand the cluster into the relevant historical, policy, industry and market context. The completed Markdown must contain the exact H2 headings `## Coverage Comparison` and `## Consensus And Disagreement`. Use normal web research with the Evidence Gate; never create article-level child jobs and never claim the proprietary ChatGPT Deep Research mode.",
+      "workflow": "ground_research",
+      "research_mode": "standard_web",
+      "ground_story_url": "https://ground.news/article/the-fed-announced-its-expected-interest-rate-decision_6063a1",
+      "ground_story_id": "the-fed-announced-its-expected-interest-rate-decision_6063a1",
+      "article_count": 13,
       "single_cluster_job": true
     }
   ]
