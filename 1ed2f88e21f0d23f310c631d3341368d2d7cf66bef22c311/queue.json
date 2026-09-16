@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T18:50:51.886313+00:00",
+  "generated_at": "2026-09-16T18:52:35.931802+00:00",
   "jobs": [
     {
       "job_id": "ground_d902c9e419e64cb092fee692d64f9ef2",
@@ -64,6 +64,50 @@
       "ground_story_url": "https://ground.news/article/the-fed-announced-its-expected-interest-rate-decision_6063a1",
       "ground_story_id": "the-fed-announced-its-expected-interest-rate-decision_6063a1",
       "article_count": 13,
+      "single_cluster_job": true
+    },
+    {
+      "job_id": "ground_99a115e5b1c1417fabf34d4b22e15ea5",
+      "job_type": "ground_research",
+      "title": "EU's von der Leyen backs AI slowdown, to invite frontier labs for talks",
+      "priority": 3,
+      "created_at": "2026-09-16T18:52:35.806281+00:00",
+      "article_urls": [
+        "https://korrespondent.net/world/4912257-hlava-evrokomyssyy-pryzvala-zamedlyt-razvytye-yy",
+        "https://www.theglobeandmail.com/world/article-eu-von-der-leyen-ai-slowdown-industry-leaders-speech",
+        "https://www.marketscreener.com/news/european-commission-to-invite-ai-leaders-for-talks-on-technology-pacing-safety-ce785bd2da8ef321",
+        "https://www.business-standard.com/world-news/eu-president-backs-ai-slowdown-to-invite-frontier-labs-for-talks-126091600679_1.html",
+        "https://www.handelsblatt.com/technik/it-internet/technische-entwicklung-weniger-tempo-bei-ki-von-der-leyen-stellt-sich-gegen-trump/100254979.html",
+        "https://www.wz.de/digital/weniger-tempo-bei-ki-von-der-leyen-stellt-sich-gegen-trump_aid-154887113",
+        "https://www.euronews.com/my-europe/2026/09/16/eus-von-der-leyen-calls-for-pacing-frontier-ai-models",
+        "https://www.rappler.com/technology/european-union-ursula-von-der-leyen-backs-ai-slowdown",
+        "https://www.politico.eu/article/von-der-leyen-to-invite-ai-leaders-to-support-efforts-to-pace-the-frontier",
+        "https://thenextweb.com/news/ursula-von-der-leyen-backs-ai-slowdown-in-state-of-the-union-address",
+        "https://www.reuters.com/world/eus-von-der-leyen-invite-frontier-labs-talks-tackling-ai-risks-2026-09-16",
+        "https://www.digi24.ro/stiri/sci-tech/lumea-digitala/ue-va-discuta-cu-marile-companii-din-domeniul-inteligentei-artificiale-pentru-a-incetini-dezvoltarea-modelelor-riscante-3949859",
+        "https://www.ansa.it/sito/notizie/topnews/2026/09/16/von-der-leyen-invitero-i-boss-dellia-dibattito-su-come-gestire-la-sfida_ddebbfb5-9424-43aa-b436-f2031a5e21b7.html",
+        "https://wtvbam.com/2026/09/16/eus-von-der-leyen-to-invite-frontier-labs-for-talks-on-tackling-ai-risks",
+        "https://www.bild.de/politik/ausland-und-internationales/eu-zukunftsrede-ursula-von-der-leyen-will-bei-ki-auf-die-bremse-treten-6aaa46df91d8cffaad47b04e",
+        "https://www.cnbctv18.com/world/european-unions-future-hinges-on-tipping-points-of-ai-climate-ursula-von-der-leyen-19991803.htm",
+        "https://www.noticiasaominuto.com/mundo/3052203/estado-da-uniao-von-der-leyen-quer-tecnologia-de-ia-com-o-ser-humano-no-controlo",
+        "https://cnnportugal.iol.pt/videos/ue-quer-tirar-o-maximo-partido-da-ia-mas-reconhece-riscos-enormes/6aaa5d670cf22b9f8904bc8d",
+        "https://sicnoticias.pt/especiais/inteligencia-artificial/2026-09-16-von-der-leyen-quer-tecnologia-de-ia-com-o-ser-humano-no-controlo-3827ed67",
+        "https://biztoc.com/x/767ba0cfc0640bdd",
+        "https://stirileprotv.ro/ursula-von-der-leyen-ue-va-discuta-cu-marii-actori-din-ia-pentru-a-incetini-dezvoltarea-modelelor-riscante.html",
+        "https://www.cmjornal.pt/mundo/detalhe/von-der-leyen-quer-tecnologia-de-ia-com-o-ser-humano-no-controlo",
+        "https://cryptocurrency.com.tr/eus-von-der-leyen-supports-ai-slowdown-plans-talks-with-leading-labs-379508",
+        "https://www.noticiasdenavarra.com/union-europea/2026/09/16/von-der-leyen-pide-ralentizar-ia-11547438.html",
+        "https://www.haberler.com/ekonomi/ab-buyuk-yapay-zeka-laboratuvarlarini-riskleri-20242354-haberi",
+        "https://www.onetz.de/deutschland-welt/weniger-tempo-ki-leyen-stellt-gegen-trump-id5502646.html"
+      ],
+      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
+      "completion_file": "ground_99a115e5b1c1417fabf34d4b22e15ea5.completed.md",
+      "research_instructions": "GROUND NEWS STORY CLUSTER (automatic standard web research): treat every supplied article URL as coverage of one story and produce one durable report, never one report or job per article. Open and inspect every supplied article that is accessible, then compare what the outlets agree on, where their facts or framing diverge, and which material facts are omitted or still uncertain. Use the Ground News page only as discovery context, not as supporting evidence unless its own substantive text is inspected. Expand the cluster into the relevant historical, policy, industry and market context. The completed Markdown must contain the exact H2 headings `## Coverage Comparison` and `## Consensus And Disagreement`. Use normal web research with the Evidence Gate; never create article-level child jobs and never claim the proprietary ChatGPT Deep Research mode.",
+      "workflow": "ground_research",
+      "research_mode": "standard_web",
+      "ground_story_url": "https://ground.news/article/eus-von-der-leyen-backs-ai-slowdown-to-invite-frontier-labs-for-talks",
+      "ground_story_id": "eus-von-der-leyen-backs-ai-slowdown-to-invite-frontier-labs-for-talks",
+      "article_count": 26,
       "single_cluster_job": true
     }
   ]
