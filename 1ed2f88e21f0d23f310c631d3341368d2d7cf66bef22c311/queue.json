@@ -1,25 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T16:25:37.059853+00:00",
+  "generated_at": "2026-09-25T16:50:49.701767+00:00",
   "jobs": [
-    {
-      "job_id": "video_3c6326f3f2ff4194bc4a1cad67010743",
-      "job_type": "video_research",
-      "title": "Video research · Tiktok",
-      "priority": 3,
-      "created_at": "2026-09-25T15:41:46.079392+00:00",
-      "article_urls": [
-        "https://vm.tiktok.com/ZN8j85HaW/"
-      ],
-      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
-      "completion_file": "video_3c6326f3f2ff4194bc4a1cad67010743.completed.md",
-      "research_instructions": "VIDEO TOPIC DEEP DIVE (automatic standard web research): read the complete transcript file named in the job. First identify the video's central topic, thesis, material assertions and uncertainties. Then perform a broad, source-led investigation of that topic: current evidence, historical and industry context, competing explanations, second-order implications, risks, scenarios and open questions. Fact-check the video's material assertions in a dedicated section, but do not reduce the report to a claim checklist: the primary output is a durable deep dive. The completed Markdown must contain the exact H2 headings `## Video Thesis` and `## Fact Check`; do not rename them. Use normal web research with the Evidence Gate; never claim the proprietary ChatGPT Deep Research mode.",
-      "workflow": "video_research",
-      "research_mode": "standard_web",
-      "transcript_file": "video_3c6326f3f2ff4194bc4a1cad67010743.txt",
-      "transcript_drive_folder": "ChatGPT-NewsBrain/VideoInputs",
-      "platform": "tiktok"
-    },
     {
       "job_id": "video_67d280fedfaf4f7b9212a9e98ea8a9f5",
       "job_type": "video_research",
