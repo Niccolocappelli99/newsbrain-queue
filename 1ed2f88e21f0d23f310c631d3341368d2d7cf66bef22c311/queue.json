@@ -1,40 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T11:21:35.597538+00:00",
+  "generated_at": "2026-09-25T11:21:40.878086+00:00",
   "jobs": [
-    {
-      "job_id": "ground_d902c9e419e64cb092fee692d64f9ef2",
-      "job_type": "ground_research",
-      "title": "Markets On Edge As US Fed Meets To Tackle High Inflation",
-      "priority": 3,
-      "created_at": "2026-09-15T14:02:29.481648+00:00",
-      "article_urls": [
-        "https://www.channelstv.com/2026/09/15/markets-on-edge-as-us-fed-meets-to-tackle-high-inflation",
-        "https://www.lapresse.ca/affaires/2026-09-15/etats-unis/le-diesel-atteint-un-nouveau-record-a-pres-de-6-27-dollars-le-gallon.php",
-        "https://www.journaldemontreal.com/2026/09/15/le-diesel-atteint-un-nouveau-record-a-pres-de-627-dollars-le-gallon-aux-etats-unis",
-        "https://www.tvn-2.com/mundo/diesel-eeuu-alcanza-nuevo-record-galon-aumento_1_2260971.html",
-        "https://www.dailysabah.com/business/economy/us-diesel-price-hits-new-record-high-in-fresh-blow-to-trump",
-        "https://sana.sy/economy/2581206",
-        "https://www.naftemporiki.gr/finance/world/2161643/ipa-neo-rekor-gia-tin-timi-toy-ntizel-sta-627-dolaria-to-galoni",
-        "https://stirileprotv.ro/stiri/international/motorina-atinge-un-nou-record-in-sua-galonul-a-ajuns-la-6-27-dolari-pe-fondul-razboiului-din-orientul-mijlociu.html",
-        "https://www.journaldequebec.com/2026/09/15/le-diesel-atteint-un-nouveau-record-a-pres-de-627-dollars-le-gallon-aux-etats-unis",
-        "https://www.ndtvprofit.com/economy/us-diesel-hits-record-usd-6-27-a-gallon-up-from-usd-3-76-before-iran-war-aaa-12048845",
-        "https://abbtakk.tv/us-diesel-prices-reach-record-high-as-fuel-supply-tightens",
-        "https://www.alborsaanews.com/2026/09/15/1992726",
-        "https://1prime.ru/20260915/dizel-873318838.html",
-        "https://newmoney.ro/motorina-atinge-un-record-de-627-dolari-galonul-in-sua-odata-cu-apropierea-alegerilor-de-la-jumatate-de-mandat",
-        "https://autokult.pl/diesel-w-usa-najdrozszy-w-historii-aaa-podaje-nowa-srednia,7329678930745504a"
-      ],
-      "completed_drive_folder": "ChatGPT-NewsBrain/Completed",
-      "completion_file": "ground_d902c9e419e64cb092fee692d64f9ef2.completed.md",
-      "research_instructions": "GROUND NEWS STORY CLUSTER (automatic standard web research): treat every supplied article URL as coverage of one story and produce one durable report, never one report or job per article. Open and inspect every supplied article that is accessible, then compare what the outlets agree on, where their facts or framing diverge, and which material facts are omitted or still uncertain. Use the Ground News page only as discovery context, not as supporting evidence unless its own substantive text is inspected. Expand the cluster into the relevant historical, policy, industry and market context. The completed Markdown must contain the exact H2 headings `## Coverage Comparison` and `## Consensus And Disagreement`. Use normal web research with the Evidence Gate; never create article-level child jobs and never claim the proprietary ChatGPT Deep Research mode.",
-      "workflow": "ground_research",
-      "research_mode": "standard_web",
-      "ground_story_url": "https://ground.news/article/usa-new-record-for-diesel-price-at-627-per-gallon",
-      "ground_story_id": "usa-new-record-for-diesel-price-at-627-per-gallon",
-      "article_count": 15,
-      "single_cluster_job": true
-    },
     {
       "job_id": "ground_99a115e5b1c1417fabf34d4b22e15ea5",
       "job_type": "ground_research",
